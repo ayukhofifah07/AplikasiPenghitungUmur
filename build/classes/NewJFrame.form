@@ -113,7 +113,7 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel1">
           <Properties>
-            <Property name="text" type="java.lang.String" value="APLIKASI PENAMBAH UMUR"/>
+            <Property name="text" type="java.lang.String" value="APLIKASI PENGHITUNG UMUR"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">

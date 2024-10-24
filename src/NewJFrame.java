@@ -58,7 +58,7 @@ public class NewJFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("APLIKASI PENAMBAH UMUR");
+        jLabel1.setText("APLIKASI PENGHITUNG UMUR");
 
         jLabel2.setText("Pilih Tanggal Lahir");
 
