@@ -57,9 +57,13 @@ Program ini memungkinkan pengguna untuk menghitung umur berdasarkan tanggal lahi
 ## Ini dia Screenshot Programnya
 
 **1.**
-![ss an AplikasiPenghitungUmur2](https://github.com/user-attachments/assets/9b9cfe5a-13de-47ef-828a-0092f15215d4)
+![ss an AplikasiPenghitungUmur](https://github.com/user-attachments/assets/fa5ced46-5d80-422f-a77e-a50df57e8264)
+
+
 
 
 **2.**
-![ss an AplikasiPenghitungUmur](https://github.com/user-attachments/assets/5c7fc8f3-435c-41e9-bfb9-bad31dd37f47)
+![ss an AplikasiPenghitungUmur2](https://github.com/user-attachments/assets/a6faae79-4246-4f8c-a07f-bd985d80c6c2)
+
+
 
